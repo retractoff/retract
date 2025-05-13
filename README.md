@@ -1,10 +1,10 @@
 ![standard (5)](https://github.com/user-attachments/assets/4407c48d-1f4f-4d7d-a9cb-3c43cc35bea6)
 
-🛠️ Retract Patcher — Fortnite Patcher Fix Tool
+🛠️ Retract Patcher — Global Patcher Fix Tool
 🔧 Fix errors, patch issues, and bring Retract back to life!
 
 ⚡ What is This?
-Retract Fixer is a mini utility created to resolve common issues and bugs with the Retract Fortnite Patcher.
+Retract Fixer is a mini utility created to resolve common issues and bugs with the Retract Global Patcher.
 If you're running into crashes, module errors, or failed patches — this tool will help fix those in seconds. ⏱️
 
 🐞 What It Fixes
@@ -14,7 +14,7 @@ If you're running into crashes, module errors, or failed patches — this tool w
 
 🔄 Broken file paths or missing configs
 
-📄 Incorrect Fortnite build linking
+📄 Incorrect build linking
 
 💥 UI not launching / main.py crashes
 
